@@ -86,10 +86,12 @@ Jenkins
 
 `gradle clean test -Denv=remote
 `
+
 Локальный запуск:
 
 `gradle clean test -Denv=local
 `
+
 Примеры использования
 Выдать отчет:
 
