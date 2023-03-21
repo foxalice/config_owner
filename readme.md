@@ -84,13 +84,11 @@ Jenkins
 
 Удаленный запуск:
 
-`gradle clean test -Denv=remote
-`
+`gradle clean test -Denv=remote`
 
 Локальный запуск:
 
-`gradle clean test -Denv=local
-`
+`gradle clean test -Denv=local`
 
 Примеры использования
 Выдать отчет:
